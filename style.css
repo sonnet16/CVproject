@@ -81,6 +81,7 @@ h1 {
 #reference2 {
   float: right;
   margin: 25px;
+  margin-right: 50px;
   padding-right: 50px;
 }
 .vertical {
